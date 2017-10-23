@@ -1,0 +1,2 @@
+.runIn { transition: 0.15s linear all; opacity: 0; transform: translateY(100%); }
+.runIn.visible {  opacity: 1; transform: translateY(0); }
